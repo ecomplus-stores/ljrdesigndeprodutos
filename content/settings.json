@@ -1,26 +1,26 @@
 {
-  "store_id": 51338,
-  "name": "ljrdesigndeprodutos",
   "domain": "ljrdesigndeprodutos.netlify.app",
-  "short_name": "ljrdesigndeprodutos",
-  "description": "ljrdesigndeprodutos",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "flatly",
+    "custom": "niche-flowers"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/ljrdesigndeprodutos",
+  "logo": "/img/uploads/whatsapp-image-2022-12-07-at-08.47.27.jpeg",
+  "name": "Legume",
+  "short_name": "Legume",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/whatsapp-image-2022-12-07-at-08.47.25.jpeg",
+  "icons_font": "font-awesome",
   "country_code": "BR",
-  "repository": "ecomplus-stores/ljrdesigndeprodutos",
-  "icons_font": "_",
-  "font_family": "_"
+  "secondary_color": "#1ec55d",
+  "icon": "/img/uploads/whatsapp-image-2022-12-07-at-08.47.25.jpeg",
+  "store_id": 51338,
+  "description": "A Legume é o braço comercial da fabricante LJR Design de produtos. Nós pensamos, desenvolvemos e entregamos diretamente para você.",
+  "large_icon": "/img/uploads/whatsapp-image-2022-12-07-at-08.47.25.jpeg"
 }
