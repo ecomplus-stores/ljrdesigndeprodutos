@@ -12,7 +12,7 @@
     "text": "Não gostou? Não se preocupe, devolveremos o seu pagamento."
   },
   "promo": {
-    "show": false,
+    "show": true,
     "text": "Diferentes promoções ao longo do ano!"
   }
 }
