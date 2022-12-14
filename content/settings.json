@@ -4,7 +4,7 @@
   "primary_color": "#222831",
   "theme": {
     "bootswatch": "flatly",
-    "custom": "niche-flowers"
+    "custom": "clean-gray"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/ljrdesigndeprodutos",
