@@ -8,19 +8,19 @@
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/ljrdesigndeprodutos",
-  "logo": "/img/uploads/2.png",
+  "logo": "/img/uploads/n-thing_mini_banner.png",
   "name": "Legume ",
   "short_name": "Legume",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/6.png",
+  "favicon": "/img/uploads/logo_nthing.png",
   "icons_font": "font-awesome",
   "country_code": "BR",
   "secondary_color": "#1ec55d",
-  "icon": "/img/uploads/6.png",
+  "icon": "/img/uploads/logo_nthing.png",
   "store_id": 51338,
   "description": "A Legume é o braço comercial da fabricante LJR Design de produtos. Nós pensamos, desenvolvemos e entregamos diretamente para você.",
-  "large_icon": "/img/uploads/6.png"
+  "large_icon": "/img/uploads/logo_nthing.png"
 }
