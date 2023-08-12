@@ -1,5 +1,5 @@
 {
-  "domain": "legume.com.br",
+  "domain": "loja.nthing.com.br",
   "currency_symbol": "R$",
   "primary_color": "#222831",
   "theme": {
@@ -9,7 +9,7 @@
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/ljrdesigndeprodutos",
   "logo": "/img/uploads/n-thing_mini_banner.png",
-  "name": "Legume ",
+  "name": "N-Thing",
   "short_name": "Legume",
   "lang": "pt_br",
   "currency": "BRL",
