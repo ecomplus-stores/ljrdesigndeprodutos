@@ -10,7 +10,7 @@
   "repository": "ecomplus-stores/ljrdesigndeprodutos",
   "logo": "/img/uploads/n-thing_mini_banner.png",
   "name": "N-Thing",
-  "short_name": "Legume",
+  "short_name": "N-Thing",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#1ec55d",
   "icon": "/img/uploads/logo_nthing.png",
   "store_id": 51338,
-  "description": "A Legume é o braço comercial da fabricante LJR Design de produtos. Nós pensamos, desenvolvemos e entregamos diretamente para você.",
+  "description": "N-Thing é um produto IoT multiuso, configurável, desenvolvido e comercializado pela LJR Design de produtos. Nós pensamos, desenvolvemos e entregamos diretamente para você. Saiba o que mais a LJR pode fazer por você e sua empresa em www.ljrdesign.com.br",
   "large_icon": "/img/uploads/logo_nthing.png"
 }
